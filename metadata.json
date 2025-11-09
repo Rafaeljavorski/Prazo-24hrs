@@ -1,0 +1,5 @@
+{
+  "name": "SLA Repair Dashboard",
+  "description": "A dashboard to monitor repair tickets with a 24-hour SLA, featuring countdown timers and status indicators for each ticket.",
+  "requestFramePermissions": []
+}
